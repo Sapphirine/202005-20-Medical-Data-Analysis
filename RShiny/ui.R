@@ -70,11 +70,11 @@ body <- dashboardBody(
         ),
         tabItem(tabName = "pred",
                 h2("Similar Patient Retrieval and Diseases Prediction"),
-                fluidRow(box(title = "Select Patient", status = "primary",
+                fluidRow(box(title = "Select Patient", status = "success",
                              selectizeInput(
                                  'p', 'Search or Select Patient ID',
                                  choices = unique(sim$SUBJECT_ID)), width = 3)),
-                fluidRow(box(title = "Top 2 Most Similar Patients", dataTableOutput("table5"), solidHeader = T, status = "primary", width = 12)))
+                fluidRow(box(title = "Top 3 Most Similar Patients", dataTableOutput("table5"), solidHeader = T, status = "primary", width = 12)))
     )
 )
 
