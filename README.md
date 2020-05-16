@@ -5,7 +5,7 @@ In this project, we hope to use data collected from patient demographics, medica
 
 ## Dataset
 
-Dataset is from MIMIC-III Critical Care Database. MIMIC-III (Medical Information Mart for Intensive Care III) is a freely-accessible database, and it includes health data between 2001 and 2012 from over 40,000 ICU patients of the Beth Israel Deaconess Medical Center. Submitting a request to access the dataset is required. 
+Dataset is from MIMIC-III Critical Care Database. MIMIC-III (Medical Information Mart for Intensive Care III) is a freely-accessible database, and it includes health data between 2001 and 2012 from over 40,000 ICU patients of the Beth Israel Deaconess Medical Center. Submitting a request to access the dataset is required. Dataset is available from https://mimic.physionet.org/about/mimic/ .
 
 ## Visualization
 
