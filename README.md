@@ -13,4 +13,4 @@ Dataset is available from https://mimic.physionet.org/about/mimic/ .
 
 ## Visualization
 
-Implementation of Visualization is built with Shiny and R.
+Implementation of visualization is built with Shiny and R. 
